@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @DevDavidCruz
-- 👀 I’m interested in creating and learning.
-- 🌱 I’m currently learning .. ASP.Net Core and .Net Maui
-- 💞️ I’m looking to collaborate on ... pretty much anything
-- 📫 How to reach me ... here...
+## Sup, I’m @DevDavidCruz
+I'm a software craftsman.. I like to mingle all over the stack.</br>
+Front, back, ... any where in between, you can find me there.
+
 
 <!---
 DevDavidCruz/DevDavidCruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
