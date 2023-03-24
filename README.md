@@ -1,4 +1,4 @@
-## Sup, I’m @DevDavidCruz
+## Hey, I’m @DevDavidCruz
 I'm a software craftsman.. I like to mingle all over the stack.</br>
 Front, back, ... any where in between, you can find me there.
 
